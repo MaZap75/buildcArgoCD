@@ -8,6 +8,6 @@ data:
     <html>
       <head><title>Benvenuto</title></head>
       <body>
-        <h1>Servito da ConfigMap!</h1>
+        <h1>Servito da ConfigMap_2!</h1>
       </body>
     </html>
