@@ -6,8 +6,8 @@ metadata:
 data:
   index.html: |
     <html>
-      <head><title>Benvenuto</title></head>
+      <head><title>Benvenuto Pagina Nginx</title></head>
       <body>
-        <h1>Servito da ConfigMap V4.1 ore 15:00</h1>
+        <h1>Servito da ConfigMap V4.1.2 ore 20:59</h1>
       </body>
     </html>
