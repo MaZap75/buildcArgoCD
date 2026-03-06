@@ -8,6 +8,6 @@ data:
     <html>
       <head><title>Benvenuto Pagina Nginx Deployata in CD Argocd</title></head>
       <body>
-        <h1>Servito da ConfigMap PUSHED BY ARGOCD V5.1.5.22 ore 17:07</h1>
+        <h1>Servito da ConfigMap PUSHED BY ARGOCD V5.1.5.23 ore 19:56</h1>
       </body>
     </html>
