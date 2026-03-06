@@ -6,8 +6,12 @@ metadata:
 data:
   index.html: |
     <html>
+      <head>
+     <meta http-equiv="refresh" content="5">
+      </head>
       <head><title>Benvenuto Pagina Nginx Deployata in CD Argocd</title></head>
-      <body>
+       <body>
         <h1>Servito da ConfigMap PUSHED BY ARGOCD V5.1.5.23 ore 19:56</h1>
       </body>
+      
     </html>
