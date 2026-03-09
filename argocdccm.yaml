@@ -37,7 +37,7 @@ data:
       </head>
 
       <body>
-        <h1>Servito da ConfigMap<br> PUSHED BY ARGOCD<br> V5.1.5.23  ore 22.20</h1>
+        <h1>Servito da ConfigMap<br> PUSHED BY ARGOCD<br> V5.1.5.23  ore 08.20</h1>
 
         <div class="footer">
           Aggiornamento automatico ogni 5 secondi
